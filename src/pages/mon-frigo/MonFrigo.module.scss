@@ -1,0 +1,21 @@
+.frigo {
+  display: flex;
+  flex-direction: column;
+
+  & > div {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    border-bottom: 1px solid gray;
+    padding: 0.5rem 0;
+
+    & span {
+      flex-basis: 30%;
+    }
+  }
+
+  .filters {
+    display: flex;
+    flex-direction: row;
+  }
+}

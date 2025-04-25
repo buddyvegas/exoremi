@@ -1,0 +1,128 @@
+[
+  {
+    "id": "leffe-blonde",
+    "nom": "Leffe Blonde",
+    "pays": "Belgique",
+    "degree": 6.6,
+    "description": "Une bière belge classique avec des notes maltées et une légère amertume."
+  },
+  {
+    "id": "chimay-bleue",
+    "nom": "Chimay Bleue",
+    "pays": "Belgique",
+    "degree": 9.0,
+    "description": "Une bière trappiste riche et complexe aux arômes de fruits secs et de caramel."
+  },
+  {
+    "id": "1664",
+    "nom": "1664",
+    "pays": "France",
+    "degree": 5.5,
+    "description": "Une bière française légère et rafraîchissante avec une touche d'agrumes."
+  },
+  {
+    "id": "pelforth-brune",
+    "nom": "Pelforth Brune",
+    "pays": "France",
+    "degree": 6.5,
+    "description": "Une bière brune douce avec des saveurs de caramel et de malt torréfié."
+  },
+  {
+    "id": "weihenstephaner-hefeweissbier",
+    "nom": "Weihenstephaner Hefeweissbier",
+    "pays": "Allemagne",
+    "degree": 5.4,
+    "description": "Une bière de blé allemande traditionnelle avec des notes de banane et de clou de girofle."
+  },
+  {
+    "id": "paulaner-salvator",
+    "nom": "Paulaner Salvator",
+    "pays": "Allemagne",
+    "degree": 7.9,
+    "description": "Une bière double bock riche et maltée avec une touche de chocolat."
+  },
+  {
+    "id": "la-chouffe",
+    "nom": "La Chouffe",
+    "pays": "Belgique",
+    "degree": 8.0,
+    "description": "Une bière blonde belge avec des arômes épicés et une finale légèrement houblonnée."
+  },
+  {
+    "id": "duvel",
+    "nom": "Duvel",
+    "pays": "Belgique",
+    "degree": 8.5,
+    "description": "Une bière blonde forte avec une mousse généreuse et des notes fruitées."
+  },
+  {
+    "id": "hoegaarden",
+    "nom": "Hoegaarden",
+    "pays": "Belgique",
+    "degree": 4.9,
+    "description": "Une bière blanche rafraîchissante avec des arômes d'agrumes et de coriandre."
+  },
+  {
+    "id": "grimbergen-double",
+    "nom": "Grimbergen Double",
+    "pays": "Belgique",
+    "degree": 6.5,
+    "description": "Une bière d'abbaye brune aux saveurs de caramel et de fruits secs."
+  },
+  {
+    "id": "fischer-tradition",
+    "nom": "Fischer Tradition",
+    "pays": "France",
+    "degree": 6.0,
+    "description": "Une bière alsacienne traditionnelle avec des notes maltées et une légère amertume."
+  },
+  {
+    "id": "biere-des-amis",
+    "nom": "Bière des Amis",
+    "pays": "France",
+    "degree": 5.8,
+    "description": "Une bière conviviale et équilibrée avec une touche de douceur."
+  },
+  {
+    "id": "augustiner-helles",
+    "nom": "Augustiner Helles",
+    "pays": "Allemagne",
+    "degree": 5.2,
+    "description": "Une bière blonde allemande douce et maltée avec une finale légèrement houblonnée."
+  },
+  {
+    "id": "erdinger-weissbier",
+    "nom": "Erdinger Weissbier",
+    "pays": "Allemagne",
+    "degree": 5.3,
+    "description": "Une bière de blé classique avec des arômes de banane et une texture crémeuse."
+  },
+  {
+    "id": "tripel-karmeliet",
+    "nom": "Tripel Karmeliet",
+    "pays": "Belgique",
+    "degree": 8.4,
+    "description": "Une bière triple belge complexe avec des notes florales et épicées."
+  },
+  {
+    "id": "westmalle-tripel",
+    "nom": "Westmalle Tripel",
+    "pays": "Belgique",
+    "degree": 9.5,
+    "description": "Une bière trappiste dorée avec des saveurs fruitées et une amertume équilibrée."
+  },
+  {
+    "id": "punk-ipa",
+    "nom": "Punk IPA",
+    "pays": "Écosse",
+    "degree": 5.6,
+    "description": "Une IPA écossaise audacieuse avec des arômes tropicaux et une amertume marquée."
+  },
+  {
+    "id": "guinness-draught",
+    "nom": "Guinness Draught",
+    "pays": "Irlande",
+    "degree": 4.2,
+    "description": "Une stout irlandaise emblématique avec une texture veloutée et des notes de café."
+  }
+]

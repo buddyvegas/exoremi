@@ -1,6 +1,7 @@
 import { RouteObject } from 'react-router-dom';
 import { Layout } from './pages/Layout';
 import MonFrigo from './pages/mon-frigo/MonFrigo';
+import Details from './pages/details';
 
 export const routes: RouteObject[] = [
   {
@@ -10,6 +11,10 @@ export const routes: RouteObject[] = [
         path: '/',
         index: true,
         element: <MonFrigo />,
+      },
+      {
+        path: '/biere/:id',
+        element: <Details />,
       },
     ],
   },

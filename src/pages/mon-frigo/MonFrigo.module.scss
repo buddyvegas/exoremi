@@ -18,4 +18,8 @@
     display: flex;
     flex-direction: row;
   }
+
+  .biere:nth-child(odd) {
+    background-color: gray;
+  }
 }

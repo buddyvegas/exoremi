@@ -1,12 +1,10 @@
 import { render, screen } from '@testing-library/react';
 import { http, HttpResponse } from 'msw';
 import { server } from '../../tests/mocks/server';
-import { queryWrapper } from '../../tests/query';
 import MonFrigo from './MonFrigo';
 
 describe('MonFrigo', () => {
   test('Afficher le frigo de Rémi', async () => {
-    const { wrapper } = queryWrapper();
 
     server.use(
       http.get('/api/bieres', async () => {
@@ -14,8 +12,8 @@ describe('MonFrigo', () => {
       }),
     );
 
-    render(<MonFrigo />, { wrapper });
+    render(<MonFrigo />);
 
-    screen.getByText('Le frigo de Rémi');
+    await screen.findByText('Le frigo de Rémi');
   });
 });
